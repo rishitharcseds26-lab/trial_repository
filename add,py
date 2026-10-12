@@ -1,3 +1,4 @@
-a=10
+
+c=10
 b=20
-print("sum=",a+b)
+print("sum=",c+b)
